@@ -1,0 +1,40 @@
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\bin\Debug\netcoreapp3.1\SalimbeniMaratonaApp.exe
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\bin\Debug\netcoreapp3.1\SalimbeniMaratonaApp.deps.json
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\bin\Debug\netcoreapp3.1\SalimbeniMaratonaApp.runtimeconfig.json
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\bin\Debug\netcoreapp3.1\SalimbeniMaratonaApp.runtimeconfig.dev.json
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\bin\Debug\netcoreapp3.1\SalimbeniMaratonaApp.dll
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\bin\Debug\netcoreapp3.1\SalimbeniMaratonaApp.pdb
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.csproj.AssemblyReference.cache
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp_MarkupCompile.cache
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp_MarkupCompile.lref
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.g.resources
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.AssemblyInfoInputs.cache
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.AssemblyInfo.cs
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.dll
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.pdb
+C:\Users\Alberto Salimbeni\OneDrive\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.genruntimeconfig.cache
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\bin\Debug\netcoreapp3.1\SalimbeniMaratonaApp.exe
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\bin\Debug\netcoreapp3.1\SalimbeniMaratonaApp.deps.json
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\bin\Debug\netcoreapp3.1\SalimbeniMaratonaApp.runtimeconfig.json
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\bin\Debug\netcoreapp3.1\SalimbeniMaratonaApp.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\bin\Debug\netcoreapp3.1\SalimbeniMaratonaApp.dll
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\bin\Debug\netcoreapp3.1\SalimbeniMaratonaApp.pdb
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp_MarkupCompile.cache
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp_MarkupCompile.lref
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.g.resources
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.AssemblyInfo.cs
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.dll
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.pdb
+C:\Users\Utente\Desktop\SalimbeniMaratonaApp\SalimbeniMaratonaApp\obj\Debug\netcoreapp3.1\SalimbeniMaratonaApp.genruntimeconfig.cache
