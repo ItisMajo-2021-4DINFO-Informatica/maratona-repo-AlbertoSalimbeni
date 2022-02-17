@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SalimbeniMaratonaApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="476" Width="456">
+        Title="MainWindow" Height="509" Width="566">
     <StackPanel>
         <Button x:Name="BtnLeggiFile" Content="Leggi file"  Click="BtnLeggiFile_Click"></Button>
         <DataGrid x:Name="DgElencoMaratone" Height="300" />

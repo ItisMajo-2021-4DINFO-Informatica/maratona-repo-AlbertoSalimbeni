@@ -39,9 +39,8 @@ namespace SalimbeniMaratonaApp
         {
             string Atleta = TxtAtleta.Text;
             string Città = TxtCittà.Text;
-            // eventualmente aggiungo un controllo sull'input
             string TempoTrovato = elenco.CercaAtleta(Atleta, Città);
-            LblTempoMinuti.Content = TempoTrovato;
+            LblTempoMinuti.Content = TempoTrovato + " minuti";
         }
     }
 }
