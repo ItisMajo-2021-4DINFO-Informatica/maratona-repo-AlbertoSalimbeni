@@ -8,6 +8,12 @@
         Title="MainWindow" Height="476" Width="456">
     <StackPanel>
         <Button x:Name="BtnLeggiFile" Content="Leggi file"  Click="BtnLeggiFile_Click"></Button>
-        <DataGrid x:Name="DgElencoMaratone" Height="300" />   
+        <DataGrid x:Name="DgElencoMaratone" Height="300" />
+        <Label Content="Inserire nome atleta:"/>
+        <TextBox x:Name="TxtAtleta" Text=""/>
+        <Label Content="Inserire nome Città:"/>
+        <TextBox x:Name="TxtCittà" Text=""/>
+        <Label x:Name="LblTempoMinuti" Content=""/>
+        <Button x:Name="BtnTrovaTempo" Content="Cerca"  Click="BtnCercaTempo_Click"></Button>
     </StackPanel>
 </Window>

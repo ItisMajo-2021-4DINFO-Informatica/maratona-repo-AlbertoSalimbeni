@@ -35,9 +35,13 @@ namespace SalimbeniMaratonaApp
             DgElencoMaratone.Items.Refresh();
         }
 
-
-
-
-
+        private void BtnCercaTempo_Click(object sender, RoutedEventArgs e)
+        {
+            string Atleta = TxtAtleta.Text;
+            string Città = TxtCittà.Text;
+            // eventualmente aggiungo un controllo sull'input
+            string TempoTrovato = elenco.CercaAtleta(Atleta, Città);
+            LblTempoMinuti.Content = TempoTrovato;
+        }
     }
 }

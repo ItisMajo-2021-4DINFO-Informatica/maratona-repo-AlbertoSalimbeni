@@ -19,15 +19,15 @@ namespace SalimbeniMaratonaApp
             Elenco.Add(unaMaratona);
         }
 
-        public int TrasformaTempo(string oreMinuti) 
+       public int TrasformaTempo(string oreMinuti) 
         {
-            int ore = int.Parse(oreMinuti.Substring(0, 3));
+            int ore = int.Parse(oreMinuti.Substring(0, 2));
 
             int minuti = int.Parse(oreMinuti.Substring(3, 2));
 
             return ore * 60 + minuti;
         }
-
+    
         public void LeggiDaFile()
         {
             using (FileStream flussoDati = new FileStream("maratona.txt", FileMode.Open, FileAccess.Read))
@@ -67,6 +67,23 @@ namespace SalimbeniMaratonaApp
                 }
             }
 
+        }
+        public string CercaAtleta(string Atleta, string Città)
+        {
+            string Tempo ="";
+
+       
+
+            foreach (var Maratona in Elenco)
+            {
+                if (Maratona.Nome == Atleta && Maratona.Città == Città)
+                {
+                    Tempo = Maratona.TempoInMinuti.ToString();
+                }
+                
+            }
+
+            return Tempo;
         }
     }
 }
